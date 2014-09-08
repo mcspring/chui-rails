@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Chui::Rails::VERSION
   spec.authors       = ["Spring MC"]
   spec.email         = ["Heresy.MC@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{chocolatechip-ui for rails pipeline}
+  spec.description   = %q{chocolatechip-ui version 3.7.0}
+  spec.homepage      = "https://github.com/mcspring/chui-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

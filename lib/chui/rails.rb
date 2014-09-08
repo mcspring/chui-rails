@@ -2,6 +2,7 @@ require "chui/rails/version"
 
 module Chui
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
